@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the EEIUST Robotics Team from Iran University of Science and Technology.
 
-We are a group of passionate students from the Electrical Engineering Department working on advanced robotics and AI projects. This repository highlights our journey, achievements, and ongoing efforts—especially in the FIRA RoboWorld Cup from 2023 to the present.
+We are a group of passionate students from the Electrical Engineering Department working on advanced robotics and AI projects. This repository highlights our journey, achievements, and ongoing efforts especially in the FIRA RoboWorld Cup from 2023 to the present.
 
 ### Highlights:
 
