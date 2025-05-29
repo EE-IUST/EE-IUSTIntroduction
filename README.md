@@ -9,8 +9,29 @@ We are a group of passionate students from the Electrical Engineering Department
 * 🏆 Multiple national and international awards in drone and AI competitions
 * 🤖 Focused research in computer vision, autonomous navigation, and flight control
 * 🌍 Represented Iran in global events including FIRA RoboWorld Cup 2024 (Brazil) and Eurasia 2024 (Turkey)
+* 📝 Active research contributions in robotics and AI with multiple paper submissions
 
 ---
+
+## 👥 Team Members
+
+### Current Team Members
+#### Core Team
+- **[Alireza Abbasi]**
+   🎓 M.Sc. Electrical Engineering | [💻 GitHub](https://github.com/amntheap) | [💼 LinkedIn](https://www.linkedin.com/in/alireza-abbasi-url/)  
+  *Specialization: Control Engineering, Reinforcement Learning, Computer Vision*
+
+- **[Mobina Lashgari]** - *Hardware Engineer*  
+  🎓 M.Sc. Electrical Engineering | [💻 GitHub](https://github.com/mobina-lashgari) | [💼 LinkedIn](https://www.linkedin.com/in/mobina-lashgari-697376248/)  
+  *Specialization: Control Engineering, Reinforcement Learning, Computer Vision*
+
+- **[Seyedeh Setare Khosravi]** - *Software Engineer*  
+  🎓 B.Sc. Electrical Engineering | [💻 GitHub](https://github.com/setarekhosravi) | [💼 LinkedIn](https://www.linkedin.com/in/setarekhosravi/)  
+  *Specialization: Computer Vision, NLP/LLMs, Control and Reinforcement Learning*
+
+### Former Team Members
+
+- **[Alireza Mikaeili]**, **[Hadi Firouzi]**, **[Shayan Ansari]**, **[Neda Najjary]**, **[Mohammad Sadegh Nematpour]**, **[Sara Dadashi]**
 
 ## 🏆 Competition History (2023-Present)
 
