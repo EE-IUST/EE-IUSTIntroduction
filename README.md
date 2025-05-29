@@ -100,6 +100,23 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 ##### 📰 News & Media Coverage
 - 📰 **[Winning the second place in the international robotics and artificial intelligence competitions of FIRACup open competitions](https://www.iust.ac.ir/content/76315/%DA%A9%D8%B3%D8%A8-%D9%85%D9%82%D8%A7%D9%85-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%81%DB%8C%D8%B1%D8%A7%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%D9%85-%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)**  
 
+## 📝 Research Publications & Papers
+
+*Our commitment to advancing robotics and AI extends beyond competitions. We actively contribute to the scientific community through research papers and publications, sharing our innovations and findings with the global research community.*
+
+### Research Efforts
+
+#### "Robust image processing in MAVs: YOLO implementation in MATLAB"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Papers/icee33-1342___79519.pdf)**
+
+**Abstract:**
+Nowadays, image processing plays a significant role in the autonomous use of MAVs. Over time, various algorithms have been introduced to improve the speed and accuracy of this process, gradually expanding based on deep learning —now a fundamental element in many industries, such as automotive and healthcare. Currently, the YOLO algorithm is considered one of the best among them. On the other hand, MATLAB is recognized as one of the most widely used software due to its unique features in programming and simulation, as well as its ability to directly interface with industrial tools and devices used across a vast range of scientific fields. Some of the key advantages of this software including its high speed in data processing, a very user-friendly interface and the ability to simulate and analyze many systems before practical implementation under real-world conditions. Despite these benefits, in the field of deep learning there are still certain limitations. One of the most significant of these is the lack of support for the newer versions of YOLO (You Only Look Once). The aim of this research is to address MATLAB's limitations in utilizing all versions of YOLO. This study offers practical solutions that not only enable the use of the latest YOLO versions in MATLAB but also ensure they are implemented without delay, enhancing the efficiency of projects based on this software.
+
+#### "Robust image processing in MAVs: YOLO implementation in MATLAB"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Papers/icee33-1411___32537.pdf)**
+
+**Abstract:**
+In autonomous robotics, a principal challenge is detecting objects in real time. Formerly, classical methods were used for this purpose which are proven not resilient. Varying lighting conditions, complex environments, and instability of MAVs are reasons for this unreliability. Yet one of the best practices to detect primitive-shaped single-colored objects is to use old-fashioned CV techniques. In the modern computer vision world, deep learning is increasingly used. One of the best deep learning object-detection methods, implemented in different robotic applications is SOTA-YOLO. However it is not optimized for single-colored object detection; here we developed a combinational method of YOLO and an old-fashioned CV technique, implemented in an autonomous MAV. The yielded results prove this method has performed efficiently with a PPV of 0.968 on our gathered Single-Colored-Autonomous-Drone-Race (SCADR) dataset.
 
 ## 🔗 Quick Links
 
