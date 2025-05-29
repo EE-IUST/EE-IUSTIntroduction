@@ -65,6 +65,24 @@ We are a group of passionate students from the Electrical Engineering Department
 
 Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/raw/refs/heads/main/Tech%20Olympics%202024/Video.mp4) to watch the video of our competition.
 
+#### FIRA Roboworld Cup 2024 - Brazil
+**Achievement:** 3rd place in the AIR Autonomous Race Pro\
+**Date:** 5th to 9th August 2024\
+**Location:** Brazil
+
+##### 👥 Team Photos
+<img src="FIRA 2024 Brazil/Team_1.jpg" alt="Team at Brazil Competition" width="500">
+<img src="FIRA 2024 Brazil/Teams_1.jpg" alt="Teams at Brazil Competition" width="500">
+
+Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%202024%20Brazil) for more images and videos.
+
+##### 🏅 Certificate & Awards
+<img src="FIRA 2024 Brazil/Certificate.jpg" alt="Brazil Competition Certificate" width="500">
+
+##### 📰 News & Media Coverage
+- 📰 **[Winning the first place in the world competition of robotics and artificial intelligence](https://www.iust.ac.ir/content/78849/%DA%A9%D8%B3%D8%A8-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D9%88%D9%84-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%81%DB%8C%D8%B1%D8%A7-%DB%B2%DB%B0%DB%B2%DB%B4-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%D9%85-%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)**  
+  *Persian language coverage of our national achievement*
+
 ### 2023 Competitions
 
 #### [Competition Name] 2023
