@@ -85,77 +85,25 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 
 ### 2023 Competitions
 
-#### [Competition Name] 2023
-**Achievement:** [Your achievement here]  
-**Date:** [Competition dates]  
-**Location:** [Location]
-
-##### 🤖 Competition Images
-<img src="images/competitions/2023/competition-1/main-photo.jpg" alt="Competition 2023" width="600">
-
-*Brief description of the competition and your team's performance.*
+#### FIRA Roboworld Cup 2023 - Iran
+**Achievement:** 2nd place in the AIR Autonomous Race Pro\
+**Date:** 21th to 24th November 2023\
+**Location:** Iran
 
 ##### 👥 Team Photos
-<img src="images/competitions/2023/competition-1/team-photo.jpg" alt="Team 2023" width="500">
+<img src="FIRA 2023 Iran/Team_2.jpg" alt="Team 2023" width="500">
+<img src="FIRA 2023 Iran/Team_3.jpg" alt="Team 2023" width="500">
 
 ##### 🏅 Certificate & Awards
-<img src="images/competitions/2023/competition-1/certificate.jpg" alt="2023 Certificate" width="500">
+<img src="FIRA 2023 Iran/Certificate.jpg" alt="2023 Certificate" width="500">
 
 ##### 📰 News & Media Coverage
-- 📰 **[News Title 2023](https://news-link.com)**  
-  *Description of news coverage*
+- 📰 **[Winning the second place in the international robotics and artificial intelligence competitions of FIRACup open competitions](https://www.iust.ac.ir/content/76315/%DA%A9%D8%B3%D8%A8-%D9%85%D9%82%D8%A7%D9%85-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%81%DB%8C%D8%B1%D8%A7%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%D9%85-%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)**  
 
-- 📱 **[Social Media Post](https://social-link.com)**  
-  *Social media highlights from the competition*
-
----
-
-#### [Another Competition Name] 2023
-**Achievement:** [Your achievement here]  
-**Date:** [Competition dates]  
-**Location:** [Location]
-
-##### 🤖 Competition Images
-<img src="images/competitions/2023/competition-2/main-photo.jpg" alt="Competition 2023" width="600">
-
-##### 👥 Team Photos
-<img src="images/competitions/2023/competition-2/team-photo.jpg" alt="Team 2023" width="500">
-
-##### 🏅 Certificate & Awards
-<img src="images/competitions/2023/competition-2/certificate.jpg" alt="2023 Certificate" width="500">
-
-##### 📰 News & Media Coverage
-- 📰 **[News Coverage](https://news-link.com)**  
-  *Media coverage description*
-
----
 
 ## 🔗 Quick Links
 
 - 🏫 [Iran University of Science and Technology](https://iust.ac.ir)
 - ⚡ [Electrical Engineering Department](https://ee.iust.ac.ir)
-- 🤖 [FIRA Official Website](https://fira.net)
-- 📧 Contact: [your-email@iust.ac.ir]
-- 🐦 Follow us: [@your-twitter-handle]
 
----
-
-## 📁 Repository Structure
-
-```
-├── images/
-│   └── competitions/
-│       ├── fira-2024-brazil/
-│       ├── eurasia-2024-turkey/
-│       ├── national-2024/
-│       └── 2023/
-│           ├── competition-1/
-│           └── competition-2/
-├── docs/
-└── README.md
-```
-
----
-
-*Last updated: [Current Date]*
 *For more information about our projects and achievements, feel free to explore our repository or contact us directly.*
