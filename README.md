@@ -53,23 +53,17 @@ We are a group of passionate students from the Electrical Engineering Department
 **Date:** 22th to 28th October 2024\
 **Location:** Iran
 
-##### 🤖 Competition Images
-<img src="images/competitions/national-2024/competition-main.jpg" alt="National Competition 2024" width="600">
-
 ##### 👥 Team Photos
-<img src="images/competitions/national-2024/team-photo.jpg" alt="Team at National Competition" width="500">
+<img src="Tech Olympics 2024/Team_2.jpg" alt="Team at National Competition" width="500">
 
 ##### 🏅 Certificate & Awards
-<img src="images/competitions/national-2024/certificate.jpg" alt="National Competition Certificate" width="500">
+<img src="Tech Olympics 2024/Certificate.jpg" alt="National Competition Certificate" width="500">
 
 ##### 📰 News & Media Coverage
-- 📰 **[Persian News Title](https://persian-news-link.com)**  
+- 📰 **[The Shining of IUST Students](https://www.iust.ac.ir/content/79866/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%B9%D9%84%D9%85-%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86--%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D9%88%D9%84-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B4)**  
   *Persian language coverage of our national achievement*
 
-- 📺 **[National TV Coverage](https://tv-link.com)**  
-  *Television interview and competition highlights*
-
----
+Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/raw/refs/heads/main/Tech%20Olympics%202024/Video.mp4) to watch the video of our competition.
 
 ### 2023 Competitions
 
