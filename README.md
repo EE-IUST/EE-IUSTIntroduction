@@ -17,9 +17,9 @@ We are a group of passionate students from the Electrical Engineering Department
 ### 2025 Competitions
 
 #### FIRA RoboWorld Cup 2025 - Iran
-**Achievement:** 2nd place in the AIR Autonomous Race Pro, Best technical in the AIR Autonomous Race Pro
-**Date:** 15th to 18th April 2025
-**Location:** Iran
+**Achievement:** 2nd place in the AIR Autonomous Race Pro, Best technical in the AIR Autonomous Race Pro\
+**Date:** 15th to 18th April 2025\
+**Location:** Iran\
 
 
 ##### 👥 Team Photos
@@ -32,9 +32,9 @@ We are a group of passionate students from the Electrical Engineering Department
 ### 2024 Competitions
 
 #### Eurasia 2024 - Turkey
-**Achievement:** 1st place in the Innovation and Business (Pro)
-**Date:** 6th to 9th November 2024
-**Location:** Turkey
+**Achievement:** 1st place in the Innovation and Business (Pro)\
+**Date:** 6th to 9th November 2024\
+**Location:** Turkey\
 
 ##### 👥 Team Photos
 <img src="Eurasia 2024 Turkey/Team_1.JPG" alt="EEIUST Team at Eurasia 2024" width="500">
@@ -49,9 +49,9 @@ We are a group of passionate students from the Electrical Engineering Department
 
 
 #### Tech Olympics 2024 - Iran
-**Achievement:** 1st place in the AIR Autonomous Race Pro
-**Date:** 22th to 28th October 2024
-**Location:** Iran
+**Achievement:** 1st place in the AIR Autonomous Race Pro\
+**Date:** 22th to 28th October 2024\
+**Location:** Iran\
 
 ##### 🤖 Competition Images
 <img src="images/competitions/national-2024/competition-main.jpg" alt="National Competition 2024" width="600">
