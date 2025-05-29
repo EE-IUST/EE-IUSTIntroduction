@@ -29,6 +29,7 @@ We are a group of passionate students from the Electrical Engineering Department
 <img src="FIRA 2025 Iran/Certificate_AIR.jpg" alt="FIRA 2025 Certificate" width="500">
 <img src="FIRA 2025 Iran/Certificate_Technical.jpg" alt="FIRA 2025 Technical Certificate" width="500">
 
+### 2024 Competitions
 
 #### Eurasia 2024 - Turkey
 **Achievement:** 1st place in the Innovation and Business (Pro)
@@ -47,9 +48,9 @@ We are a group of passionate students from the Electrical Engineering Department
   *International recognition of our team's innovative approach*
 
 
-#### [National Competition Name] 2024
-**Achievement:** [Your achievement here]  
-**Date:** [Competition dates]  
+#### Tech Olympics 2024 - Iran
+**Achievement:** 1st place in the AIR Autonomous Race Pro
+**Date:** 22th to 28th October 2024
 **Location:** Iran
 
 ##### 🤖 Competition Images
