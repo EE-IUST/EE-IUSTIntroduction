@@ -104,7 +104,14 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 
 *Our commitment to advancing robotics and AI extends beyond competitions. We actively contribute to the scientific community through research papers and publications, sharing our innovations and findings with the global research community.*
 
-### Research Efforts
+### Research Background & Related Works
+#### "CAD2RL: Real Single-Image Flight Without a Single Real Image"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+
+#### "Bebop 2 Quadrotor as a Platform for Research and Education in Robotics and Control Engineering"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+
+### Our Research Efforts
 
 #### "Robust image processing in MAVs: YOLO implementation in MATLAB"
 **📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Papers/icee33-1342___79519.pdf)**
@@ -117,6 +124,12 @@ Nowadays, image processing plays a significant role in the autonomous use of MAV
 
 **Abstract:**
 In autonomous robotics, a principal challenge is detecting objects in real time. Formerly, classical methods were used for this purpose which are proven not resilient. Varying lighting conditions, complex environments, and instability of MAVs are reasons for this unreliability. Yet one of the best practices to detect primitive-shaped single-colored objects is to use old-fashioned CV techniques. In the modern computer vision world, deep learning is increasingly used. One of the best deep learning object-detection methods, implemented in different robotic applications is SOTA-YOLO. However it is not optimized for single-colored object detection; here we developed a combinational method of YOLO and an old-fashioned CV technique, implemented in an autonomous MAV. The yielded results prove this method has performed efficiently with a PPV of 0.968 on our gathered Single-Colored-Autonomous-Drone-Race (SCADR) dataset.
+
+### Research Impact & Future Directions
+**Current Research Focus Areas:**
+- 🔬 Computer Vision and Deep Learning for Robotics
+- 🛸 Autonomous Navigation and Path Planning
+- 🧠 Reinforcement Learning Applications (End-to-End Robot Control using RL)
 
 ## 🔗 Quick Links
 
