@@ -121,6 +121,16 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 ##### 📰 News & Media Coverage
 - 📰 **[Winning the second place in the international robotics and artificial intelligence competitions of FIRACup open competitions](https://www.iust.ac.ir/content/76315/%DA%A9%D8%B3%D8%A8-%D9%85%D9%82%D8%A7%D9%85-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A8%DB%8C%D9%86%E2%80%8C%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9-%D9%88-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%81%DB%8C%D8%B1%D8%A7%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%D9%85-%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)**  
 
+## 🤖 Platforms
+
+### Parrot Bebop 2
+
+**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+
+### Dji Tello
+
+**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+
 ## 📝 Research Publications & Papers
 
 *Our commitment to advancing robotics and AI extends beyond competitions. We actively contribute to the scientific community through research papers and publications, sharing our innovations and findings with the global research community.*
