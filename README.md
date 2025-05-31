@@ -125,11 +125,11 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 
 ### Parrot Bebop 2
 
-**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Catalog/parrotbebop2theall-in-onedrone.pdf)**
 
 ### Dji Tello
 
-**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+**📄 [Read Catalog](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Catalog/Tello%20User%20Manual%20v1.4.pdf)**
 
 ## 📝 Research Publications & Papers
 
@@ -143,16 +143,16 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 **📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
 
 #### "3, 2, 1, Drones Go! A Testbed to Take off UAV Swarm Intelligence for Distributed Sensing"
-**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/A%20Testbed%20to%20Take%20off%20UAV.pdf)**
 
 #### "Real-Time Interval Type-2 Fuzzy Control of an Unmanned Aerial Vehicle with Flexible Cable-Connected Payload"
-**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Real-Time%20Interval%20Type-2%20Fuzzy%20Control%20of%20an%20Unmanned.pdf)**
 
 #### "Vision-based Relative Navigation and Drone Swarming Control for Inspection in GPS-denied Environment "
-**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Vision_based%20Relative%20Navigation.pdf)**
 
 #### " AReal-time Fuzzy Interacting Multiple-Model Velocity Obstacle Avoidance ApproachforUnmannedAerialVehicles"
-**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/AReal-time%20Fuzzy%20Interacting%20Multiple-Model%20Velocity%20Obstacle.pdf)**
 
 ### Our Research Efforts
 
