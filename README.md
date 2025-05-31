@@ -132,6 +132,18 @@ Click [here](https://github.com/EE-IUST/EE-IUSTIntroduction/tree/main/FIRA%20202
 #### "Bebop 2 Quadrotor as a Platform for Research and Education in Robotics and Control Engineering"
 **📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
 
+#### "3, 2, 1, Drones Go! A Testbed to Take off UAV Swarm Intelligence for Distributed Sensing"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+
+#### "Real-Time Interval Type-2 Fuzzy Control of an Unmanned Aerial Vehicle with Flexible Cable-Connected Payload"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+
+#### "Vision-based Relative Navigation and Drone Swarming Control for Inspection in GPS-denied Environment "
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/CAD2RL%20Real%20Single-Image%20Flight.pdf)**
+
+#### " AReal-time Fuzzy Interacting Multiple-Model Velocity Obstacle Avoidance ApproachforUnmannedAerialVehicles"
+**📄 [Read Paper](https://github.com/EE-IUST/EE-IUSTIntroduction/blob/main/Related%20Works/Bebop%202%20Quadrotor%20as%20a%20Platform%20for%20Research%20and%20Education.pdf)**
+
 ### Our Research Efforts
 
 #### "Robust image processing in MAVs: YOLO implementation in MATLAB"
