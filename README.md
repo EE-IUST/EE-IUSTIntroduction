@@ -35,6 +35,21 @@ We are a group of passionate students from the Electrical Engineering Department
 
 ## 🏆 Competition History (2023-Present)
 
+### 2026 Competitions
+
+#### FIRA RoboWorld Cup 2026 - Iran
+**Achievement:** 1nd & 2nd place in the AIR Autonomous Race Pro\
+**Date:** 17th to 21th July 2026\
+**Location:** Iran
+
+
+##### 👥 Team Photos
+<img src="FIRA 2025 Iran/Team.jpg" alt="EEIUST Team at FIRA 2025" width="500">
+
+##### 🏅 Certificate & Awards
+<img src="FIRA 2025 Iran/Certificate_AIR.jpg" alt="FIRA 2025 Certificate" width="500">
+<img src="FIRA 2025 Iran/Certificate_Technical.jpg" alt="FIRA 2025 Technical Certificate" width="500">
+
 ### 2025 Competitions
 
 #### FIRA RoboWorld Cup 2025 - Iran
