@@ -38,9 +38,12 @@ We are a group of passionate students from the Electrical Engineering Department
 ### 2026 Competitions
 
 #### FIRA RoboWorld Cup 2026 - Iran
-**Achievement:** 1st & 2nd place in the AIR Autonomous Race Pro\
-**Date:** 17th to 21th July 2026\
-**Location:** Iran
+**Achievement:** 1st & 2nd place in the AIR Autonomous Race Pro  
+**Date:** 17th–21st July 2026  
+**Location:** Iran  
+ 
+**Coaches:** Alireza Abbasi, Mobina Lashgari 
+**Team Members:** Ala Jafari, Elisa Niazmand, Ghazal Roosta, Mobina Bayati, Parmis Hosseini, Aida Derambakhsh, Bahar Asgari, Boshra Kashani, Haniye Shafiei
 
 
 ##### 👥 Team Photos
