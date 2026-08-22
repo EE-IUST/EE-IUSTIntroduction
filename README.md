@@ -38,7 +38,7 @@ We are a group of passionate students from the Electrical Engineering Department
 ### 2026 Competitions
 
 #### FIRA RoboWorld Cup 2026 - Iran
-**Achievement:** 1nd & 2nd place in the AIR Autonomous Race Pro\
+**Achievement:** 1st & 2nd place in the AIR Autonomous Race Pro\
 **Date:** 17th to 21th July 2026\
 **Location:** Iran
 
