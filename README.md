@@ -44,11 +44,12 @@ We are a group of passionate students from the Electrical Engineering Department
 
 
 ##### 👥 Team Photos
-<img src="FIRA 2025 Iran/Team.jpg" alt="EEIUST Team at FIRA 2025" width="500">
+<img src="FIRA 2026 Iran/FIRA 2026.jpg" alt="EEIUST Team at FIRA 2026" width="500">
+<img src="FIRA 2026 Iran/FIRA 2026_2.jpg" alt="EEIUST Team at FIRA 2026" width="500">
 
 ##### 🏅 Certificate & Awards
-<img src="FIRA 2025 Iran/Certificate_AIR.jpg" alt="FIRA 2025 Certificate" width="500">
-<img src="FIRA 2025 Iran/Certificate_Technical.jpg" alt="FIRA 2025 Technical Certificate" width="500">
+<img src="FIRA 2026 Iran/FIRA_2026_1st.jpg" alt="FIRA 2026 Certificate" width="500">
+<img src="FIRA 2026 Iran/FIRA_2026_2nd.jpg" alt="FIRA 2026 Certificate" width="500">
 
 ### 2025 Competitions
 
