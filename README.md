@@ -33,7 +33,7 @@ We are a group of passionate students from the Electrical Engineering Department
 
 - **Alireza Mikaeili**, **Hadi Firouzi**, **Shayan Ansari**, **Neda Najjary**, **Mohammad Sadegh Nematpour**, **Sara Dadashi**
 
-## 🏆 Competition History (2023-Present)
+## 🏆 Competition History (Present-2023)
 
 ### 2026 Competitions
 
