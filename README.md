@@ -42,7 +42,7 @@ We are a group of passionate students from the Electrical Engineering Department
 **Date:** 17th–21st July 2026  
 **Location:** Iran  
  
-**Coaches:** Alireza Abbasi, Mobina Lashgari 
+**Coaches:** Alireza Abbasi, Mobina Lashgari\
 **Team Members:** Ala Jafari, Elisa Niazmand, Ghazal Roosta, Mobina Bayati, Parmis Hosseini, Aida Derambakhsh, Bahar Asgari, Boshra Kashani, Haniye Shafiei
 
 
